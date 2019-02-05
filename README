@@ -1,0 +1,1 @@
+Yes, I know that the "middle square method" is said to be a poor source of randomness. I thought that it seemed that way, and then, to my surprise, I ran an entropy test on a file (which I will provide later) and it said that the data was random. I checked it and it showed a lot of 0000 in base10, but the conversion kind of hides it. This will be uploaded later today.
