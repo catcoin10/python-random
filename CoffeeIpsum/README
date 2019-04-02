@@ -1,0 +1,7 @@
+Coffee Ipsum
+
+I decided not to put this in a seperate repository because this is related and based off of the python-random project/repository. This is just a fun modification that is used to generate lorem ipsum texts. Lorem ipsum is text that takes up a page but has no true meaning except to be funny. This text is designed to be funny and interesting. Unlike handmade ones, these ones are based off a set list of 25 pre-selected words that are related to coffee.
+
+I will (probably) create an image generator program in the future that is used to generate images that are related to coffee. The purpose of coffee ipsum is to amuse people. The idea came from ktty ipsum, an earlier project that I learned about in my coding class. I find this idea of ipsums very fascinating because the words seem to have a meaning, but when you look at them closely, they don't really.
+
+You can generate as many ipsums as your CPU allows and have fun!
