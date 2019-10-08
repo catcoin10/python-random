@@ -1,0 +1,7 @@
+Proof of Work
+
+This is a program that uses a pseudo random number generator as a type of hash function that takes in a number, hashes it, and spits it out. I search for 9s because the computer *might* be able to fool around with zeroes by putting in a lot of zeroes in the input, but it (probably) can't for 9s.
+
+To check it, open a Python shell and:
+
+    import 
