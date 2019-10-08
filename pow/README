@@ -4,4 +4,7 @@ This is a program that uses a pseudo random number generator as a type of hash f
 
 To check it, open a Python shell and:
 
-    import 
+    import pow
+    pow.prng(N)[:x] == "9"*x
+
+N is the output and x is the number of digits in the proof. Note that each digit makes it 10 times harder and it becomes noticeable at 5-6 digits.
