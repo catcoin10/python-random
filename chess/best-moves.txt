@@ -19,4 +19,4 @@ These games need a lot more work because the #s vary by very small margins. We n
 
 So, this is not the best program for testing the best chess combo, but it still works well enough to get an idea... |:
 
-Note: that face is a neutral face because I used it to give myself an advantage while playing chess.
+Note: that face is a neutral face because I used it to give myself an advantage while playing chess. Do NOT get complacent, the advantage by the tips is small if it exists, which it probably does!
