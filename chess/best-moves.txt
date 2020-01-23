@@ -1,0 +1,9 @@
+These are the best moves as discovered by my program after going after some tries.
+
+Here they are:
+
+a3 - 50.7%
+b3 - 50.0%
+c3 - 49.3%
+
+I'm sorry, but I didn't put black because I don't have that much time. That feature is coming soon (maybe). However, that is probably not necessary because you might (not 100% sure) be able to invert this by doing the opposite side if you get black.
