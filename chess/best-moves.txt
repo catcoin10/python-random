@@ -15,6 +15,10 @@ Even though there are over 9 million possibilities according to https://www.ches
 ['Nc3', 'f3', 'Ne1']1971/4000
 ['Nc3', 'f3', 'Ne4']2000/4000
 
+['c3', 'e4', 'Be2']25807/51120
+['c3', 'e4', 'Qe2']25781/51190
+['c3', 'e4', 'Ke2']25285/50220
+
 These games need a lot more work because the #s vary by very small margins. We need to test the numbers, and it looks like we have a margin of error of 2.5% with a 95% confidence level and 1.18% at a 75% confidence level.
 
 So, this is not the best program for testing the best chess combo, but it still works well enough to get an idea... |:
